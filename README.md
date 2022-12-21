@@ -31,7 +31,7 @@
    + Фреймворк Bootstrap.
    
 ### Работа над проектом ведется в команде.
-1. Репозиторий проекта доступен по ссылке: [StankinView](https://github.com/fireru277/inet2022/wiki)
+1. Репозиторий проекта доступен по ссылке: [StankinView](https://github.com/fireru277/inet2022/wiki#wiki-pages-box)
 2. Веб-страница с описанием проекта доступна по ссылке: [landing page](https://profound-salmiakki-49c5d6.netlify.app/)
    
 ## ✅ Лабораторная работа № 3
