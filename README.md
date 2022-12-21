@@ -39,9 +39,9 @@
 1. [Отчет](https://github.com/Amirchik227/Internet_technologies/blob/master/%D0%A8%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B2_%D0%98%D0%A2_%D0%9B%D0%A0%E2%84%963.pdf)
 2. [Сценарий Cisco Packet Tracer](https://github.com/Amirchik227/Internet_technologies/blob/master/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9%205%20%D0%B4%D0%BB%D1%8F%20CPT%2020.pka)
 
-## ✅ Экзаменационный билет № 4
+## ✅ Экзаменационный билет № 19
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №4](https://github.com/stankin/inet-2022/wiki/exam19)
+[билет №19](https://github.com/stankin/inet-2022/wiki/exam19)
 
 Был дан ответ на второй вопрос в билете: [разница ревизий](https://github.com/stankin/inet-2022/wiki/exam19/_compare/fb13674ec3280ed628c2dc4f153282083618e63d...5c12809f6afcb1936b369b73e4e4fc2bbb669189)
